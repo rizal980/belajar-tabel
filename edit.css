@@ -1,0 +1,20 @@
+
+ body{
+    text-transform: capitalize;
+    background-color: cadetblue;
+    color: black;
+    padding: 125px;
+    font-size:15px;
+    width: auto; 
+ }
+div tr{
+    background-color: grey;
+    
+}
+h4{
+    color:black;
+    padding: auto;
+}
+th{
+    padding: 10px;
+}
